@@ -1,0 +1,14 @@
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\bin\Debug\netcoreapp2.1\odevatasayar.deps.json
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\bin\Debug\netcoreapp2.1\odevatasayar.runtimeconfig.json
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\bin\Debug\netcoreapp2.1\odevatasayar.runtimeconfig.dev.json
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\bin\Debug\netcoreapp2.1\odevatasayar.dll
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\bin\Debug\netcoreapp2.1\odevatasayar.pdb
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.csprojAssemblyReference.cache
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.csproj.CoreCompileInputs.cache
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.RazorAssemblyInfo.cache
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.RazorAssemblyInfo.cs
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.AssemblyInfoInputs.cache
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.AssemblyInfo.cs
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.RazorTargetAssemblyInfo.cache
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.dll
+C:\Users\kaans\RiderProjects\odevatasayar\odevatasayar\obj\Debug\netcoreapp2.1\odevatasayar.pdb
